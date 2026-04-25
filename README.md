@@ -3,4 +3,4 @@ for learning Git course
 
 
 
-## project notes
+## project Notes
